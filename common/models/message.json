@@ -21,6 +21,10 @@
     "isSubscribe": {
       "type": "boolean",
       "default": false
+    },
+    "nickName": {
+      "type": "string",
+      "default": "Young Leader"
     }
   },
   "validations": [],
