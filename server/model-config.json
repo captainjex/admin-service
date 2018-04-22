@@ -35,10 +35,11 @@
     "dataSource": "db",
     "public": false
   },
-  "Message": {
-    "dataSource": null
-  },
   "Subscriber": {
+    "dataSource": "mongoDB",
+    "public": true
+  },
+  "Message": {
     "dataSource": "mongoDB",
     "public": true
   }

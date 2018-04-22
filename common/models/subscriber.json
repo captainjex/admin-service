@@ -12,14 +12,11 @@
     },
     "nickName": {
       "type": "string",
-      "required": true
+      "default": "Young Leader"
     },
     "email": {
       "type": "string",
       "required": true
-    },
-    "message": {
-      "type": "string"
     }
   },
   "validations": [],
