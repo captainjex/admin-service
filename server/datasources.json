@@ -4,7 +4,7 @@
     "connector": "memory"
   },
   "mongoDB": {
-    "host": "localhost",
+    "host": "128.199.72.101",
     "port": 27017,
     "url": "",
     "database": "flsAdmin",
