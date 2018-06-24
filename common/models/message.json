@@ -25,6 +25,10 @@
     "nickName": {
       "type": "string",
       "default": "Young Leader"
+    },
+    "topic": {
+      "type": "string",
+      "default": "general"
     }
   },
   "validations": [],
